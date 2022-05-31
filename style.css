@@ -1,0 +1,92 @@
+.logo {
+    color: #000000;
+}
+.logo span,
+.nav-link:hover,
+.nav-link:focus,
+.list-item:hover,
+.list-item:focus,
+.footerw
+ {
+    color: #2196f3;}
+.nav-link,
+.name,
+h2,
+.who,
+h3 {
+    color: #212121;
+}
+.list-item {
+    color: #757575;
+}
+.hero-section,
+.footer {
+    background-color: #2F303A;
+}
+.list-title {
+    color: #FFFFFF;
+}
+.lorem {
+    color: #757575;
+}
+.address,
+.logof {
+    color: #FFFFFF;
+}
+.email,
+.phonenumber {
+    color: #FFFFFF99;
+}
+/*Портфоліо*/
+.logo-spanp,
+.nav-linkp:hover,
+.nav-linkp:focus,
+.list-itemp:hover,
+.list-itemp:focus
+{
+color: #2196f3;}
+.list-itemp {
+    color: #757575;
+}
+.nav-linkp,
+.logop {
+    color: #212121;
+}
+/*Секція посиланнь на приклади робіт*/
+.buttonb {
+    color: #FFFFFF;
+}
+.buttonb {
+    background-color: #2196f3;
+}
+.button {
+    color: #212121;
+}
+.button {
+    background-color: #F5F4FA;
+}
+.image {
+    color: #212121;
+}
+.image1 {
+    color: #757575;
+}
+/*Footer*/
+.footer-portfolio {
+    background-color: #2F303A;
+}
+.headingp {
+    color: #2196f3;
+}
+.headingps {
+    color: #FFFFFF;
+}
+.addressp {
+    color: #FFFFFF;
+}
+.emailp {
+    color: #FFFFFF99;
+}
+.phonenumberp {
+    color: #FFFFFF99;
+}
